@@ -1,0 +1,14 @@
+{
+  "name": "discord_js",
+  "version": "1.0.0",
+  "description": "Personal discord bot made in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "edwincarr",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.3.0"
+  }
+}
